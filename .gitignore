@@ -4,3 +4,4 @@ main.py
 __pycache__/
 *.pyc
 .buildozer/
+.gitignore
