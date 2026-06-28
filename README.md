@@ -1,6 +1,16 @@
 # Sudoku-TUI
-A complete Sudoku TUI application with no ads
 
-Just download the .apk file from bin folder
+A complete Sudoku app for Android with no ads.
 
-Also, The sudoku_tui.py can be used on windows/Linux/MAC machines for an example game
+## Features
+- 5 themes (Tokyo Night, Gruvbox, Catppuccin, Nord, Solarized Light)
+- 4 difficulty levels
+- Undo, pencil mode, hints
+- Win/loss animations and sound
+- Best time tracking and daily streak
+
+## Install
+Download the latest APK from the `bin/` folder.
+
+## Build from source
+Requires Buildozer. Run `buildozer android debug` in the project root.
