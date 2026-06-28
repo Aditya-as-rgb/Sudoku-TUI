@@ -10,7 +10,7 @@ A complete Sudoku app for Android with no ads.
 - Best time tracking and daily streak
 
 ## Install
-Download the latest APK from the `bin/` folder.
+Download the latest APK from the [Releases](https://github.com/Aditya-as-rgb/Sudoku-TUI/releases) page.
 
 ## Build from source
 Requires Buildozer. Run `buildozer android debug` in the project root.
