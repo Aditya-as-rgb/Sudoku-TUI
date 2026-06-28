@@ -1,7 +1,0 @@
-venv/
-buildozer.spec
-main.py
-__pycache__/
-*.pyc
-.buildozer/
-.gitignore
